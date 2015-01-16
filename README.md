@@ -8,5 +8,7 @@ Distributed under the Creative Common Attribution-NonCommercial-ShareAlike 4.0 I
 ##Prerequisites 
 
 ```apt-get install pip```
+
 ```pip install praw```
+
 ```pip install wget```
